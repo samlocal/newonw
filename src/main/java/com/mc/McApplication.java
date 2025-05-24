@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class McApplication {
 
 	public static void main(String[] args) {
+		String name="sam";
 		SpringApplication.run(McApplication.class, args);
 	}
 
